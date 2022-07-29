@@ -1,0 +1,27 @@
+* {
+    background-image: url("https://static.wikia.nocookie.net/universocinematograficomarvel/images/b/b7/Images.jpg/revision/latest/scale-to-width-down/350?cb=20190505233213&path-prefix=pt");
+}
+
+#principal {
+ align-items: flex-end;
+ width: 500px;
+ margin: auto;
+}
+
+
+    
+
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: black;
+text-align: left;
+
+}
+
+#proximapagina {
+    font-size: 35px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    align-items: center;
+}
